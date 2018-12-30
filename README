@@ -1,0 +1,5 @@
+Hello,
+This project to help me with my endevour learning Python3.
+Dockerfile creates an image with python3 and necessary packages.
+Startup script builds an image and initiates a container.
+If argument "bash" given to startup script it will drop you to bash shell, otherwise pyhton3 REPL initiated.
